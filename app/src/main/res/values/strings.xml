@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TRTS Triage</string>
+    <string name="two">2</string>
+    <string name="feedback_form">FEEDBACK FORM</string>
+    <string name="systolic_bp">Systolic BP</string>
+    <string name="respiratory_rate">Respiratory Rate</string>
+    <string name="motor_response">Motor Response</string>
+    <string name="verbal_response">Verbal Response</string>
+    <string name="eye_opening">Eye Opening</string>
+</resources>
